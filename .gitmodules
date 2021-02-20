@@ -1,0 +1,6 @@
+[submodule "Simple-DevOps-Project"]
+	path = Simple-DevOps-Project
+	url = https://github.com/zambrinf/Simple-DevOps-Project.git
+[submodule "hello-world"]
+	path = hello-world
+	url = https://github.com/zambrinf/hello-world.git
